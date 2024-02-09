@@ -1,5 +1,8 @@
 # GITADORA PlayLog
 
+## ダウンロードリンク
+<[GITADORA PlayLog.zip](https://wachip-taka.github.io/tools/GITADORA%20PlayLog/GITADORA%20PlayLog.zip)>
+
 ## 概要
 - コナステの画面を監視し、リザルトをリストに表示するツールです。  
 - 楽曲情報、達成率や詳細リザルトを記録します。
