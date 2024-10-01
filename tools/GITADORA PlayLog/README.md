@@ -19,6 +19,7 @@
 - **監視間隔**: 画面を監視する間隔を設定します。あまり間隔が長いと記録が遅くなります。短すぎるとPCの負担が増加します。
 - **達成率更新のみ**: チェックをONにすると達成率を更新したレコードのみを絞り込みます。
 - **SaveImage**: 現在表示されているリストを画像ファイルに保存します。
+  - 保存した画像は **[GITADORA ScoreLog](https://gitadora-scorelog.herokuapp.com/)**（by [@tmg_dayo](https://twitter.com/tmg_dayo)）の『画像読み込み』の機能に使用することができます。
 - **リザルトスクショを保存**: リザルトの原画をGITADORA PlayLog.exeの下のresultフォルダに自動保存します。
 
 ## 注意
